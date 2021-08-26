@@ -2,7 +2,7 @@
 
 > iView3 转换示例项目已转移至独立仓库：https://github.com/gogocodeio/ViewUI/tree/vue3
 
-全网最简单易上手，可读性最强的 AST 处理工具！
+东半球全网最简单易上手，可读性最强的 AST 处理工具！
 
 官网：https://gogocode.io
 
@@ -157,7 +157,7 @@ $(code)
 ### .prevAll()
 获取当前节点之前的同级节点
 
-### .next()
+### .next2()
 获取后一个节点
 
 ### .nextAll()
